@@ -1,0 +1,6 @@
+{
+  "name": "Senna & Grace",
+  "description": "Premium e-commerce platform for luxury branded bag resellers including Louis Vuitton, Charles & Keith, Gucci and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
